@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Education/CA/Moezmips/processssortest_isim_beh.exe" -prj "D:/Education/CA/Moezmips/processssortest_beh.prj" "work.processssortest" 

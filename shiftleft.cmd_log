@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "F:/Moezmips/shiftleft.xst" -ofn "F:/Moezmips/shiftleft.syr" 

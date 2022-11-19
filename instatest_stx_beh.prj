@@ -1,0 +1,2 @@
+vhdl isim_temp "instructionmem.vhd"
+vhdl isim_temp "instatest.vhd"

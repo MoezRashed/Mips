@@ -1,0 +1,49 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "secureip" -o "D:/Education/CA/Moezmips/processssortest_isim_beh.exe" -prj "D:/Education/CA/Moezmips/processssortest_beh.prj" "work.processssortest" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/Education/CA/Moezmips/signextend.vhd" into library work
+Parsing VHDL file "D:/Education/CA/Moezmips/shiftleft.vhd" into library work
+Parsing VHDL file "D:/Education/CA/Moezmips/reg.vhd" into library work
+Parsing VHDL file "D:/Education/CA/Moezmips/PC.vhd" into library work
+Parsing VHDL file "D:/Education/CA/Moezmips/mux5.vhd" into library work
+Parsing VHDL file "D:/Education/CA/Moezmips/Mux32Bit.vhd" into library work
+Parsing VHDL file "D:/Education/CA/Moezmips/mem_unit.vhd" into library work
+Parsing VHDL file "D:/Education/CA/Moezmips/instructionmem.vhd" into library work
+Parsing VHDL file "D:/Education/CA/Moezmips/ControlUnit.vhd" into library work
+Parsing VHDL file "D:/Education/CA/Moezmips/alucontrol.vhd" into library work
+Parsing VHDL file "D:/Education/CA/Moezmips/ALU.vhd" into library work
+Parsing VHDL file "D:/Education/CA/Moezmips/adderrrrrr.vhd" into library work
+Parsing VHDL file "D:/Education/CA/Moezmips/adder4.vhd" into library work
+Parsing VHDL file "D:/Education/CA/Moezmips/processormoez.vhd" into library work
+WARNING:HDLCompiler:946 - "D:/Education/CA/Moezmips/processormoez.vhd" Line 271: Actual for formal port sel is neither a static name nor a globally static expression
+Parsing VHDL file "D:/Education/CA/Moezmips/processssortest.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity ControlUnit [controlunit_default]
+Compiling architecture behavioral of entity reggg [reggg_default]
+Compiling architecture behavioral of entity mux5 [mux5_default]
+Compiling architecture behavioral of entity signextend [signextend_default]
+Compiling architecture behavioral of entity Mux32Bit [mux32bit_default]
+Compiling architecture behavioral of entity alucontrol [alucontrol_default]
+Compiling architecture behavioral of entity shiftleft [shiftleft_default]
+Compiling architecture behavioral of entity adderrrrrr [adderrrrrr_default]
+Compiling architecture behavioral of entity adder4 [adder4_default]
+Compiling architecture behavioral of entity PC [pc_default]
+Compiling architecture behavioral of entity instructionmem [instructionmem_default]
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavioral of entity mem_unit [mem_unit_default]
+Compiling architecture behavioral of entity processormoez [processormoez_default]
+Compiling architecture behavior of entity processssortest
+Time Resolution for simulation is 1ps.
+Waiting for 4 sub-compilation(s) to finish...
+Compiled 34 VHDL Units
+Built simulation executable D:/Education/CA/Moezmips/processssortest_isim_beh.exe
+Fuse Memory Usage: 38084 KB
+Fuse CPU Usage: 890 ms

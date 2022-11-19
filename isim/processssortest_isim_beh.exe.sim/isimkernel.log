@@ -1,0 +1,30 @@
+Command line:
+   processssortest_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49744
+
+Wed Jun 01 13:30:30 2022
+
+
+ Elaboration Time: 0.46875 sec
+
+ Current Memory Usage: 5816.21 Meg
+
+ Total Signals          : 93
+ Total Nets             : 2069
+ Total Signal Drivers   : 29
+ Total Blocks           : 21
+ Total Primitive Blocks : 19
+ Total Processes        : 18
+ Total Traceable Variables  : 16
+ Total Scalar Nets and Variables : 2571
+In process instructionmem.vhd:53 
+ 
+
+ Total Simulation Time: 0.484375 sec
+
+ Current Memory Usage: 5816.21 Meg
+
+Wed Jun 01 13:31:12 2022
+

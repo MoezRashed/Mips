@@ -1,0 +1,2 @@
+vhdl isim_temp "Mux32Bit.vhd"
+vhdl isim_temp "Mux32Bittest.vhd"

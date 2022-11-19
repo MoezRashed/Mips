@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "F:/Moezmips/signextend.xst" -ofn "F:/Moezmips/signextend.syr" 

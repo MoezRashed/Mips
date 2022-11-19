@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/Moezmips/Mux32Bit.xst" -ofn "D:/Moezmips/Mux32Bit.syr" 
+xst -intstyle ise -ifn "D:/Moezmips/Mux32Bit.xst" -ofn "D:/Moezmips/Mux32Bit.syr" 

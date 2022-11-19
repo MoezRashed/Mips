@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "F:/Moezmips/adder4.xst" -ofn "F:/Moezmips/adder4.syr" 
+xst -intstyle ise -ifn "F:/Moezmips/adder4.xst" -ofn "F:/Moezmips/adder4.syr" 

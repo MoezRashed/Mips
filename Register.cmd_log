@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/Moezmips/Register.xst" -ofn "D:/Moezmips/Register.syr" 
+xst -intstyle ise -ifn "D:/Moezmips/Register.xst" -ofn "D:/Moezmips/Register.syr" 
